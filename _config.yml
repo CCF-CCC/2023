@@ -18,7 +18,7 @@ class_name: CCF Customized Computing Challenge 2023
 class_number: CCF CCC
 email: CCC_CCF@outlook.com
 baseurl: "/2023"
-url: "CCF-CCC.github.io"
+url: "CCF-CCC.github.io/2023"
 
 permalink: pretty
 
