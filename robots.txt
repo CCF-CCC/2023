@@ -1,1 +1,1 @@
-Sitemap: CCF-CCC.github.io/2023/sitemap.xml
+Sitemap: http://localhost:4000/2023/sitemap.xml
