@@ -46,7 +46,7 @@ order: 2
 
 * Field defense 20%
 
-## Target Platform 
+## Target Platform
 
 The 2022 contest will use the [VCK5000 Versal ACAP PLATFORM](https://www.xilinx.com/products/boards-and-kits/vck5000.html).
 
@@ -78,6 +78,4 @@ The AMD official tutorial is provided [here](https://github.com/Xilinx/xup_aie_t
   * 2022: https://github.com/xupsh/ccc
   * 2021: https://github.com/xupsh/ccc2021
 
-## Platform Installation
-TBD
 
