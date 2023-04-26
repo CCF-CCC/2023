@@ -11,7 +11,7 @@ CCFSys定制计算挑战赛由中国计算机联合会主办，旨在发掘计�
 本次大赛能够带领参赛者深入体验真正的异构平台，该平台结合了AI引擎，可编程逻辑，DSP引擎，片上网络，以最大限度的提高编程的灵活性和硬件的可重构性。
 
 <p align="middle">
-    <img src="{% link media/AIE_CPU.png %}" width="300" class="center">
+    <img src="{% link media/AIE_CPU.png %}" width="600" class="center">
 </p>
 
 ## 赛事安排
