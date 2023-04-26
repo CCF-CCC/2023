@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "CCF CCC"
-class_name: CCF Customized Computing Challenge 2023
-class_number: CCF CCC
+title: "CCFSys CCC"
+class_name: CCFSys Customized Computing Challenge 2023
+class_number: CCFSys CCC
 email: CCC_CCF@outlook.com
 baseurl: "/2023"
 url: "ccfsys-ccc.github.io"
