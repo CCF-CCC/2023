@@ -61,7 +61,7 @@ The Vitis tool chain currently supports three types of development from bottom t
 
 - Different reference design with different level of start point using AIE API, AIE Intrinsic and Vitis DSP Library will be provided during training.
 
-- The reference design is for reference only. Entrants must make changes or innovations based on the reference design.
+- The reference design developed by AIE intrinsic is for reference only. Entrants must make changes or innovations based on the reference design.
 
 - The reference design online documentation can be found [here]( https://docs.xilinx.com/r/en-US/xapp1356-fft-ai-engine). 
 
@@ -98,7 +98,7 @@ The Vitis tool chain currently supports three types of development from bottom t
 
 ### Reference Design
 
-The reference design is from the Vitis Vision L2 AIE Library. The filter2D source code file can be found on the [Vitis Vision Library Github]().
+The reference design is from the Vitis Vision L2 AIE Library. The filter2D source code developed by AIE intrinsic can be found on the [Vitis Vision Library Github](https://github.com/Xilinx/Vitis_Libraries/blob/main/vision/L1/include/aie/imgproc/xf_filter2d_aie.hpp).
 
 
 

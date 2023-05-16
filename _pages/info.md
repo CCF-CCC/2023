@@ -48,7 +48,7 @@ order: 2
 
 ## Target Platform
 
-The 2022 contest will use the [VCK5000 Versal ACAP PLATFORM](https://www.xilinx.com/products/boards-and-kits/vck5000.html).
+The 2023 contest will use the [VCK5000 Versal ACAP PLATFORM](https://www.xilinx.com/products/boards-and-kits/vck5000.html).
 
 <p align="middle">
     <img src="{% link media/vck5000.png %}" width="300" class="center">
