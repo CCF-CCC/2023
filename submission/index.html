@@ -219,7 +219,9 @@ In the basic flow, a successful AIE emulation run is the only requirement. In th
 
 <ul>
   <li>Submission File Tree
-    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>├── data
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>├── notebook     // application
+│   └── fir.ipynb
+├── data
 │   └── input.txt
 ├── Makefile
 └── src
@@ -253,7 +255,13 @@ In the basic flow, a successful AIE emulation run is the only requirement. In th
   </li>
 </ul>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>├── aie
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>├── notebook     // application
+│   └── fir.ipynb
+├── exclusion // exclusion
+│   ├── vadd.xclbin
+│   ├── input_files
+│   └── host.exe
+├── aie
 │   ├── data
 │   │   ├── inputa_float.txt
 │   │   ├── ref_outputc_float.txt
