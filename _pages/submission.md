@@ -50,6 +50,8 @@ The Versal® ACAP AI Engine SystemC simulator (aiesimulator) includes the modeli
 
 - Submission File Tree
 ```
+├── notebook     // application
+│   └── fir.ipynb
 ├── data
 │   └── input.txt
 ├── Makefile
@@ -76,6 +78,12 @@ The Versal® ACAP AI Engine SystemC simulator (aiesimulator) includes the modeli
 - Submission File Tree
 
 ```
+├── notebook     // application
+│   └── fir.ipynb
+├── exclusion // exclusion
+│   ├── vadd.xclbin
+│   ├── input_files
+│   └── host.exe
 ├── aie
 │   ├── data
 │   │   ├── inputa_float.txt
